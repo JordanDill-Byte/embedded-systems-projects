@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "01-UART-Transmissions\\01-UART-Transmissions.ino"
+}
