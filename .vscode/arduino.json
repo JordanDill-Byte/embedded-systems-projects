@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "01-UART-Transmissions",
-    "output": "./build"
-}
