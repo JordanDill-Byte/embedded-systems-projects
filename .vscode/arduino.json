@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "01-blinking-led.ino",
+    "output": "./build"
+}
