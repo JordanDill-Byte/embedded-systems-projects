@@ -5,8 +5,8 @@ Wokwi is used as the primary simulator for its broad microcontroller support and
 Claude and other AI is used as a learning assistant throughout these projects — because using powerful tools effectively is part of good engineering.
 
 ## projects | Conecepts covered | Simulation link
------------|--------------------|----------------
-01-blinking Led | GPIO output, circuit basics, resistors | https://wokwi.com/projects/463746518897838081
+| -----------|--------------------|----------------
+| 01-blinking Led | GPIO output, circuit basics, resistors | https://wokwi.com/projects/463746518897838081
 
 
 #Tools and enviroment
