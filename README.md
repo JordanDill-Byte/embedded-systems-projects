@@ -10,6 +10,8 @@ Claude and other AI is used as a learning assistant throughout these projects â€
 
 02-UART-Transmissions | Serial communication, UART | [Wowki link](https://wokwi.com/projects/463749697134467073)
 
+03-I2C-Transmissions | Serial communication, error handling, I2C communication | [Wowki lin](https://wokwi.com/projects/463835993164342273)
+
 
 #Tools and enviroment
 - Arduino Uno (Simulated in Wokwi)
