@@ -31,7 +31,7 @@ void setup(){
 
 
 void loop(){
-    Serial.println("Button state ");
+    Serial.println("Button state ");//added this and digital read for debugging
     Serial.println(digitalRead(interruptPin));
     int localCounter = interruptCounter; // seting a local variable to handle race conditions
     long localLedCounter = ledOffTime;
